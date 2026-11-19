@@ -1,6 +1,6 @@
 # Data and code
 
-The tables cover 3,734,675 populated grid cells and 2,850 county-level units in mainland China, representing 1,410,585,044 residents. The grid and county tables use the 120-minute driving window. The scenario table reports the alternative windows and sensitivity cases.
+The tables cover 3,734,675 populated grid cells and 2,850 county-level units in mainland China. The grid and county tables use the 120-minute driving window. The scenario table reports the alternative windows and sensitivity cases.
 
 ## Data
 
